@@ -9,6 +9,6 @@ https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 pip install -r requirements.txt.
 
-install the requirements text file in the repository.
+install the requirements text file given in the repository.
 
-run the jupyter notebook in the repository.
+run the jupyter notebook given in the repository.
